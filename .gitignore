@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Notebooks Jupyter
+.ipynb_checkpoints
+
+# Dossiers de données et modèles
+data/
+models/
+training_checkpoints/
+
+# Logs et résultats
+logs/
+results/
+*.log
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
